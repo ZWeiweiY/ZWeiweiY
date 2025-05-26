@@ -49,6 +49,7 @@
 
 ###
 
+<!--
 <div align="left">
   <a href="tyleryzw@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -59,12 +60,15 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+-->
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">🔭 I’m a recent graduate from Carnegie Mellon University’s Entertainment Technology Center, where I focused on game development, interactive experiences, and emerging technologies.<br><br>📚 I'm currently learning more about real-time systems, computer vision, and how to build engaging games and meaningful educational tools using Unity and web technologies.<br><br>⚡ In my free time I enjoy prototyping game ideas, exploring VR/AR tools, and collaborating on creative tech projects that bring fun and learning together.</p>
+
+<!---
 
 ###
 
@@ -77,4 +81,6 @@
 </div>
 
 ###
+
+--->
 ###
