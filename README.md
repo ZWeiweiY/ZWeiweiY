@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Tyler and I'm a Software Engineer and Game Developer from Taiwan</h2>
+<h2 align="left">Hi 👋! My name is Tyler and I'm a Software Engineer and Creative Developer from Taiwan</h2>
 
 ###
 <!--
@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left">🔭 I’m a recent graduate from the Entertainment Technology Center at Carnegie Mellon University, where I focused on game development, interactive experiences, and emerging technologies.<br><br>📚 I'm currently learning more about real-time systems, computer vision, and how to build engaging games and meaningful educational tools using Unity and web technologies.<br><br>⚡ In my free time I enjoy prototyping game ideas, exploring VR/AR tools, and collaborating on creative tech projects that bring fun and learning together.</p>
+<p align="left">🔭 I’m a recent graduate from the Entertainment Technology Center at Carnegie Mellon University, where I focused on game development, interactive experiences, and emerging technologies.<br><br>📚 I'm currently learning more about real-time systems, computer vision, and how to build engaging games and interactive experiences using game engines and modern technologies.<br><br>⚡ In my free time I enjoy prototyping game ideas, exploring VR/AR tools, and collaborating on creative tech projects that bring fun and learning together.</p>
 <!---
 
 🎥  Feel free to check out my [Video Portfolio](https://youtu.be/DyJcRccaXF0) on Youtube
