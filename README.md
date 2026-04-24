@@ -67,11 +67,12 @@
 
 ###
 
-<p align="left">🔭 I’m a recent graduate from the Entertainment Technology Center at Carnegie Mellon University, where I focused on game development, interactive experiences, and emerging technologies.<br><br>📚 I'm currently learning more about real-time systems, computer vision, and how to build engaging games and interactive experiences using game engines and modern technologies.<br><br>⚡ In my free time I enjoy prototyping game ideas, exploring VR/AR tools, and collaborating on creative tech projects that bring fun and learning together.</p>
+<p align="left">🔭 I’m a recent graduate from the Entertainment Technology Center at Carnegie Mellon University, where I focused on game development, interactive experiences, and emerging technologies.<br><br>📚 I have extensive experiences in real-time systems, computer vision, and how to build engaging games and interactive experiences using game engines and modern technologies.<br><br>⚡ In my free time I enjoy prototyping game ideas, exploring new tools, and collaborating on creative tech projects that bring fun and learning together.</p>
+
+
+🎥  Feel free to check out some of my [Work Samples](https://drive.google.com/drive/folders/1KSTuiDcC23LkE8dgCKks737wZO3dd_hN?usp=drive_link) <br><br> For recruiters, I’m happy to share additional samples under NDA, just reach out!
+
 <!---
-
-🎥  Feel free to check out my [Video Portfolio](https://youtu.be/DyJcRccaXF0) on Youtube
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
